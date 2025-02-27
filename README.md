@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Tioyudi! 👋
 
-<!--
-**tioyudi/tioyudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I am a passionate **developer**, constantly exploring the world of **automation**, **blockchain**, and **open-source** projects. I love building tools and applications that make processes more efficient and enjoyable.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **Tech Stack**: Python, Ethereum, APIs, Automation
+- 🌱 Currently working on **Ethereum-based projects** and **Metamask SDK integration**.
+- 🎯 Focused on creating automation tools and exploring the blockchain space.
+- 🌍 Contributing to the open-source community and learning new things every day.
+
+## 🔨 What I Do
+
+- 💻 Develop **automated bots** for various platforms.
+- 🧠 Work with **smart contracts** and **blockchain technologies**.
+- 🌐 Integrate with APIs to create smarter applications.
+- 🚀 Contribute to open-source projects and collaborate with developers worldwide.
+
+
+## 🎨 Fun Fact
+
+I enjoy creating tools that automate tasks and make life easier. Outside of coding, I'm exploring new tech trends and diving into the world of **blockchain development**.
+
+![Nyan Cat GIF](https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif)
