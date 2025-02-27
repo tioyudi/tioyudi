@@ -1,4 +1,4 @@
-# Hi, I'm Tioyudi! 👋
+# Hi, I'm Nothing0x! 👋
 
 Welcome to my GitHub! I am a passionate **developer**, constantly exploring the world of **automation**, **blockchain**, and **open-source** projects. I love building tools and applications that make processes more efficient and enjoyable.
 
